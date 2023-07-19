@@ -1,0 +1,8 @@
+name: r_nanostring
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - r-irkernel
+  - notebook
+prefix: /Users/minhtran/miniforge3/envs/r_nanostring
