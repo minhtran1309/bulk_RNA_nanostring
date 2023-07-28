@@ -1,0 +1,785 @@
+,Class Name,Avg Count,Min Count,Max Count,%CV,Accession,Common Name,Gene_Class
+A2M,Endogenous,7356.64,488.63,63370.75,141.34,NM_000014.4,A2M,Immune Response
+ABCB1,Endogenous,85.7,9.18,770.15,140.55,NM_000927.3,ABCB1,Immune Response
+ABCF1,Housekeeping,424.81,161.28,1022.98,34.61,NM_001090.2,ABCF1,HK
+ABL1,Endogenous,703.33,215.08,2489.04,60.46,NM_005157.3,ABL,Immune Response
+ADA,Endogenous,121.54,31.61,282.87,51.45,NM_000022.2,ADA,Immune Response
+ADORA2A,Endogenous,56.7,12.91,302.68,83.66,NM_000675.3,ADORA2A,Immune Response - Checkpoint
+AGK,Housekeeping,192.74,81.28,382.24,31.75,NM_018238.3,AGK,HK
+AICDA,Endogenous,27.56,4.67,161.28,124.5,NM_020661.1,AICDA,Immune Response
+AIRE,Endogenous,41.0,7.54,276.47,115.51,NM_000383.2,APECED,Immune Response
+AKT3,Endogenous,1321.63,48.97,4131.22,70.49,NM_181690.1,AKT3,Immune Response - Cell Type specific
+ALAS1,Housekeeping,156.0,87.62,293.95,32.16,NM_000688.4,ALAS,HK
+ALCAM,Endogenous,451.62,9.67,2798.64,110.0,NM_001627.3,CD166,Immune Response
+AMBP,Endogenous,421.04,2.79,16472.48,571.25,NM_001633.3,AMBP,Immune Response
+AMICA1,Endogenous,302.78,44.7,2569.58,131.29,NM_153206.2,AMICA1,Immune Response
+AMMECR1L,Housekeeping,333.12,179.87,655.26,26.68,NM_001199140.1,AMMECR1L,HK
+ANP32B,Endogenous,814.45,328.59,1942.69,36.87,NM_006401.2,APRIL,Immune Response - Cell Type specific
+ANXA1,Endogenous,5530.64,358.62,27831.89,81.21,NM_000700.1,ANXA1,Immune Response
+APOE,Endogenous,2185.31,98.78,10636.38,105.14,NM_000041.2,APOE,Immune Response - Cell Type specific
+APP,Endogenous,4712.44,629.1,15124.88,64.37,NM_000484.3,APP,Immune Response
+ARG1,Endogenous,55.87,3.02,1376.85,378.58,NM_000045.2,ARG1,Immune Response
+ARG2,Endogenous,91.48,11.37,522.66,98.89,NM_001172.3,ARG2,Immune Response
+ATF1,Endogenous,304.24,150.01,518.46,29.5,NM_005171.2,ATF1,Immune Response
+ATF2,Endogenous,478.37,138.24,739.24,29.03,NM_001256090.1,ATF2,Immune Response
+ATG10,Endogenous,119.46,51.98,201.07,33.25,NM_001131028.1,ATG10,Immune Response
+ATG12,Endogenous,47.71,15.12,138.33,55.39,NM_004707.2,ATG12,Immune Response
+ATG16L1,Endogenous,208.08,129.88,393.16,23.21,NM_198890.2,ATG16L1,Immune Response
+ATG5,Endogenous,292.14,115.2,911.97,43.62,NM_004849.2,ATG5,Immune Response
+ATG7,Endogenous,160.35,46.08,260.19,26.48,NM_001136031.2,ATG7,Immune Response
+ATM,Endogenous,26.43,8.75,152.89,90.66,NM_000051.3,ATM,Immune Response - Cell Type specific
+AXL,Endogenous,1182.92,262.67,3051.15,64.4,NM_021913.2,AXL,Immune Response
+BAGE,Endogenous,31.42,2.21,283.95,138.64,NM_001187.1,BAGE,CT Antigen
+BATF,Endogenous,40.35,8.46,117.12,63.5,NM_006399.3,BATF,Immune Response - Cell Type specific
+BAX,Endogenous,888.26,379.88,1767.73,38.19,NM_138761.3,BAX,Immune Response
+BCL10,Endogenous,312.19,116.41,760.3,43.28,NM_003921.2,BCL10,Immune Response
+BCL2,Endogenous,367.61,89.6,3387.86,130.08,NM_000657.2,BCL2,Immune Response - Cell Type specific
+BCL2L1,Endogenous,1162.75,414.71,5528.6,64.58,NM_001191.2,Bcl-X,Immune Response
+BCL6,Endogenous,380.92,82.94,1158.29,62.26,NM_001706.2,BCL6,Immune Response - Cell Type specific
+BID,Endogenous,28.06,3.67,115.2,71.37,NM_001196.2,BID,Immune Response
+BIRC5,Endogenous,238.07,22.27,1385.75,115.51,NM_001168.2,survivin,Immune Response
+BLK,Endogenous,13.02,1.0,69.12,115.11,NM_001715.2,BLK,Immune Response - Cell Type specific
+BLNK,Endogenous,43.64,12.68,117.5,53.17,NM_013314.2,bca,Immune Response
+BMI1,Endogenous,335.25,129.71,680.56,37.53,NM_005180.5,BMI1,Immune Response
+BST1,Endogenous,134.49,19.96,621.84,87.64,NM_004334.2,BST1,Immune Response
+BST2,Endogenous,483.97,53.15,1713.48,78.41,NM_004335.2,BST2,Immune Response
+BTK,Endogenous,51.85,15.16,118.22,57.06,NM_000061.1,BTK,Immune Response
+BTLA,Endogenous,39.33,6.64,152.25,73.73,NM_181780.2,BTLA,Immune Response - Checkpoint
+C1QA,Endogenous,825.4,166.29,2243.4,61.1,NM_015991.2,C1QA,Immune Response
+C1QB,Endogenous,2539.31,535.91,6666.7,67.65,NM_000491.3,C1QB,Immune Response
+C1QBP,Endogenous,873.52,379.31,2762.1,49.05,NM_001212.3,p32,Immune Response
+C1R,Endogenous,1696.93,87.0,8276.36,88.01,NM_001733.4,C1R,Immune Response
+C1S,Endogenous,1206.45,44.46,3114.76,62.52,NM_001734.2,C1S,Immune Response
+C2,Endogenous,245.14,24.76,1009.13,79.88,NM_000063.3,C2,Immune Response
+C3,Endogenous,640.94,23.71,5567.81,150.29,NM_000064.2,C3,Immune Response
+C3AR1,Endogenous,122.37,34.92,378.64,65.8,NM_004054.2,C3AR,Immune Response
+C4B,Endogenous,448.5,12.52,2821.06,130.89,NM_001002029.3,C4B,Immune Response
+C4BPA,Endogenous,75.16,1.37,787.03,236.64,NM_000715.3,C4BP,Immune Response
+C5,Endogenous,91.57,20.82,520.54,92.32,NM_001735.2,C5,Immune Response
+C6,Endogenous,57.23,6.04,856.31,219.98,NM_000065.2,C6,Immune Response
+C7,Endogenous,384.93,3.05,4391.24,213.5,NM_000587.2,C7,Immune Response
+C8A,Endogenous,39.53,3.93,604.04,236.76,NM_000562.2,C8A,Immune Response
+C8B,Endogenous,58.47,4.23,1044.63,282.61,NM_000066.2,C8B,Immune Response
+C8G,Endogenous,42.85,6.14,310.9,122.1,NM_000606.2,C8G,Immune Response
+C9,Endogenous,95.64,6.65,1728.62,334.06,NM_001737.3,C9,Immune Response
+CAMP,Endogenous,21.85,3.77,166.9,120.68,NM_004345.3,CAMP,Immune Response
+CARD11,Endogenous,50.32,11.45,147.63,68.01,NM_032415.2,CARD11,Immune Response
+CARD9,Endogenous,61.28,11.85,214.3,67.37,NM_052813.4,CARD9,Immune Response
+CASP1,Endogenous,246.07,48.23,676.09,62.12,NM_001223.3,CASP1,Immune Response
+CASP10,Endogenous,29.21,3.57,134.69,74.48,NM_032977.3,CASP10,Immune Response
+CASP3,Endogenous,125.01,43.65,320.94,53.64,NM_032991.2,CASP3,Immune Response
+CASP8,Endogenous,370.15,75.07,1303.92,55.57,NM_001228.4,CASP8,Immune Response
+CC2D1B,Housekeeping,52.46,19.15,131.44,51.93,NM_032449.2,CC2D1B,HK
+CCL1,Endogenous,15.67,2.34,71.69,88.34,NM_002981.1,CCL1,Immune Response - Cell Type specific
+CCL11,Endogenous,39.76,2.91,300.24,127.77,NM_002986.2,eotaxin,Immune Response
+CCL13,Endogenous,169.77,7.25,1269.31,147.13,NM_005408.2,CCL13,Immune Response - Cell Type specific
+CCL14,Endogenous,263.16,12.97,1815.54,136.01,NM_032963.3,CCL14,Immune Response
+CCL15,Endogenous,15.05,2.46,58.56,83.33,NM_032965.3,CCL15,Immune Response
+CCL16,Endogenous,33.25,2.26,234.51,143.11,NM_004590.2,CCL16,Immune Response
+CCL17,Endogenous,33.0,5.48,117.12,81.72,NM_002987.2,CCL17,Immune Response - Cell Type specific
+CCL18,Endogenous,534.32,6.39,5451.57,217.95,NM_002988.2,CCL18,Immune Response
+CCL19,Endogenous,134.96,6.64,1077.9,156.61,NM_006274.2,CCL19,Immune Response
+CCL2,Endogenous,853.05,41.52,4099.6,105.17,NM_002982.3,MCP-1,Immune Response
+CCL20,Endogenous,81.44,5.14,834.5,152.07,NM_004591.1,CCL20,Immune Response
+CCL21,Endogenous,254.99,4.74,2927.91,203.0,NM_002989.2,CCL21,Immune Response
+CCL22,Endogenous,24.11,2.74,161.28,103.16,NM_002990.3,MDC,Immune Response - Cell Type specific
+CCL23,Endogenous,23.52,1.0,101.03,100.25,NM_145898.1,CCL23,Immune Response
+CCL24,Endogenous,9.9,1.0,47.8,114.59,NM_002991.2,eotaxin-2,Immune Response
+CCL25,Endogenous,33.82,4.18,299.51,138.51,NM_005624.2,CCL25,Immune Response
+CCL26,Endogenous,50.14,6.65,232.26,89.64,NM_006072.4,CCL26,Immune Response
+CCL27,Endogenous,21.13,6.1,81.98,74.09,NM_006664.2,CCL27,Immune Response
+CCL28,Endogenous,8.23,1.0,29.87,90.76,NM_148672.2,CCL28,Immune Response
+CCL3,Endogenous,130.18,31.7,478.02,74.36,NM_002983.2,MIP-1-alpha,Immune Response
+CCL3L1,Endogenous,178.72,23.9,656.26,72.97,NM_021006.4,CCL3L1,Immune Response
+CCL4,Endogenous,72.62,17.61,276.47,67.37,NM_002984.2,CCL4,Immune Response
+CCL5,Endogenous,288.65,35.64,1557.75,96.42,NM_002985.2,RANTES,Immune Response
+CCL7,Endogenous,29.53,2.21,118.83,101.8,NM_006273.2,FIC,Immune Response - Cell Type specific
+CCL8,Endogenous,125.01,13.79,656.26,101.7,NM_005623.2,MCP-2,Immune Response
+CCND3,Endogenous,350.55,84.1,1033.81,64.69,NM_001760.2,CCND3,Immune Response
+CCR1,Endogenous,109.13,18.29,320.49,70.48,NM_001295.2,CCR1,Immune Response
+CCR2,Endogenous,72.25,13.84,257.6,77.03,NM_001123041.2,CCR2,Immune Response - Cell Type specific
+CCR3,Endogenous,17.53,1.0,116.49,130.45,NM_001837.2,CCR3,Immune Response - Cell Type specific
+CCR4,Endogenous,17.49,3.02,92.16,100.76,NM_005508.4,ChemR13,Immune Response
+CCR5,Endogenous,58.16,7.25,184.32,72.98,NM_000579.1,CCR5,Immune Response
+CCR6,Endogenous,34.1,5.14,143.39,91.61,NM_031409.2,CCR6,Immune Response
+CCR7,Endogenous,15.53,1.21,69.12,89.1,NM_001838.2,CCR7,Immune Response
+CCR9,Endogenous,15.84,2.34,127.41,138.27,NM_031200.1,CCR9,Immune Response
+CCRL2,Endogenous,83.82,18.72,391.6,83.82,NM_003965.4,CCRL2,Immune Response
+CD14,Endogenous,969.54,207.88,3678.61,74.76,NM_000591.2,CD14,Immune Response
+CD160,Endogenous,20.67,2.26,115.2,106.43,NM_007053.2,CD160,Immune Response - Cell Type specific
+CD163,Endogenous,1213.04,197.06,4888.19,88.2,NM_004244.4,CD163,Immune Response
+CD164,Endogenous,2776.1,1163.13,9821.68,65.43,NM_006016.4,MUC-24,Immune Response
+CD180,Endogenous,55.36,18.16,140.64,52.68,NM_005582.2,CD180,Immune Response
+CD19,Endogenous,21.73,3.77,91.01,86.83,NM_001770.4,CD19,Immune Response - Cell Type specific
+CD1A,Endogenous,17.21,3.33,115.2,109.55,NM_001763.2,CD1A,Immune Response - Cell Type specific
+CD1B,Endogenous,9.16,1.37,25.99,69.24,NM_001764.2,CD1B,Immune Response - Cell Type specific
+CD1C,Endogenous,41.79,4.74,207.36,89.81,NM_001765.2,CD1C,Immune Response
+CD1D,Endogenous,38.18,8.81,117.0,71.16,NM_001766.3,CD1D,Immune Response
+CD1E,Endogenous,18.48,2.4,112.85,112.77,NM_001042583.1,CD1E,Immune Response - Cell Type specific
+CD2,Endogenous,30.16,1.72,105.4,81.15,NM_001767.3,CD2,Immune Response - Cell Type specific
+CD200,Endogenous,82.52,20.75,269.37,64.44,NM_005944.5,CD200,Immune Response
+CD207,Endogenous,35.63,4.06,265.26,156.29,NM_015717.2,Langerin,Immune Response
+CD209,Endogenous,152.96,19.93,644.05,97.85,NM_021155.2,CD209,Immune Response - Cell Type specific
+CD22,Endogenous,79.95,11.45,650.86,150.34,NM_001771.2,CD22,Immune Response
+CD24,Endogenous,2509.14,18.95,25966.23,192.56,NM_013230.2,CD24,Immune Response
+CD244,Endogenous,34.35,7.05,169.78,91.57,NM_016382.2,CD244,Immune Response
+CD247,Endogenous,69.57,8.32,497.23,117.51,NM_198053.1,CD247,Immune Response
+CD27,Endogenous,59.4,5.44,245.76,77.02,NM_001242.4,CD27,Immune Response - Checkpoint
+CD274,Endogenous,62.83,11.45,239.16,78.68,NM_014143.3,PD-L1,Immune Response
+CD276,Endogenous,1854.04,561.6,5168.15,57.52,NM_001024736.1,CD276,Immune Response
+CD28,Endogenous,44.76,7.58,146.55,69.82,NM_001243078.1,CD28,Immune Response - Cell Type specific / Checkpoint
+CD33,Endogenous,82.08,19.93,184.32,51.53,NM_001177608.1,CD33,Immune Response
+CD34,Endogenous,219.61,18.12,1913.79,168.55,NM_001025109.1,CD34,Immune Response
+CD36,Endogenous,2940.52,27.78,37921.39,277.07,NM_001001548.2,CD36,Immune Response
+CD37,Endogenous,77.42,18.49,326.85,82.49,NM_001774.2,CD37,Immune Response
+CD38,Endogenous,46.95,7.21,167.73,75.47,,,
+CD3D,Endogenous,87.88,8.32,331.94,81.31,NM_000732.4,CD3D,Immune Response
+CD3E,Endogenous,55.35,4.83,204.0,78.56,NM_000733.2,CD3E,Immune Response - Cell Type specific
+CD3EAP,Endogenous,118.66,53.45,483.83,59.46,NM_012099.1,CD3EAP,Immune Response
+CD3G,Endogenous,24.42,5.44,71.75,73.04,NM_000073.2,CD3G,Immune Response - Cell Type specific
+CD4,Endogenous,370.37,49.5,1454.37,74.88,NM_000616.4,CD4,Immune Response
+CD40,Endogenous,298.11,34.07,669.14,59.21,NM_001250.4,CD40,Immune Response
+CD40LG,Endogenous,46.29,7.88,149.36,78.32,NM_000074.2,CD40L,Immune Response - Checkpoint
+CD44,Endogenous,3148.94,477.95,13649.99,77.6,NM_001001392.1,CD44,Immune Response
+CD46,Endogenous,1664.39,414.71,4431.27,42.97,NM_172350.1,CD46,Immune Response
+CD47,Endogenous,1638.93,316.0,4861.82,47.44,NM_001777.3,CD47,Immune Response
+CD48,Endogenous,94.26,15.7,285.12,71.52,NM_001778.2,CD48,Immune Response
+CD5,Endogenous,44.07,7.28,161.28,84.94,NM_014207.2,CD5,Immune Response
+CD53,Endogenous,311.12,49.89,1188.29,73.27,NM_001040033.1,CD53,Immune Response
+CD55,Endogenous,75.21,12.1,283.95,72.12,NM_000574.3,CD55,Immune Response
+CD58,Endogenous,444.33,89.09,1095.67,49.99,NM_001779.2,CD58,Immune Response
+CD59,Endogenous,2906.17,472.31,8643.42,58.58,NM_000611.4,CD59,Immune Response
+CD6,Endogenous,33.98,6.39,138.24,78.18,NM_006725.3,CD6,Immune Response - Cell Type specific
+CD63,Endogenous,9576.61,4321.59,20280.39,41.65,NM_001780.4,CD63,Immune Response
+CD68,Endogenous,861.54,153.41,3131.89,74.45,NM_001251.2,CD68,Immune Response - Cell Type specific
+CD7,Endogenous,56.56,7.86,346.08,101.85,NM_006137.6,CD7,Immune Response
+CD70,Endogenous,144.13,6.19,649.66,137.28,NM_001252.2,CD70,Immune Response
+CD74,Endogenous,6847.01,1673.03,20969.04,69.29,NM_001025159.1,CD74,Immune Response
+CD79A,Endogenous,34.26,6.14,132.13,90.67,NM_001783.3,CD79A,Immune Response
+CD79B,Endogenous,76.75,10.57,421.07,103.33,NM_021602.2,CD79B,Immune Response
+CD80,Endogenous,53.05,11.06,184.32,68.36,NM_005191.3,CD80,Immune Response
+CD81,Endogenous,7370.87,2465.23,20841.26,48.69,NM_004356.3,CD81,Immune Response
+CD83,Endogenous,267.3,26.54,920.33,75.28,NM_004233.3,CD83,Immune Response
+CD84,Endogenous,302.83,58.21,1578.65,86.11,NM_001184879.1,CD84,Immune Response
+CD86,Endogenous,58.59,11.17,156.64,66.22,NM_175862.3,CD86,Immune Response
+CD8A,Endogenous,77.29,6.65,414.71,94.27,NM_001768.5,CD8A,Immune Response - Cell Type specific
+CD8B,Endogenous,40.74,12.53,109.21,52.1,NM_004931.3,CD8B,Immune Response - Cell Type specific
+CD9,Endogenous,914.92,69.55,2325.0,75.18,NM_001769.2,CD9,Immune Response
+CD96,Endogenous,69.98,12.08,263.65,83.64,NM_005816.4,CD96,Immune Response
+CD97,Endogenous,666.54,125.93,2851.34,76.48,NM_078481.2,CD97,Immune Response
+CD99,Endogenous,3766.98,699.01,18151.1,88.39,NM_002414.3,CD99,Immune Response
+CDH1,Endogenous,225.11,4.74,3173.23,220.44,NM_004360.2,CDH1,Immune Response
+CDH5,Endogenous,219.77,25.55,1943.02,173.28,NM_001795.3,CD144,Immune Response
+CDK1,Endogenous,347.15,51.97,1132.98,81.12,NM_001786.4,CDC2,Immune Response
+CDKN1A,Endogenous,533.8,57.03,2435.81,84.73,NM_000389.2,P21,Immune Response
+CEACAM1,Endogenous,52.05,6.39,152.25,74.37,NM_001712.3,CEACAM1,Immune Response
+CEACAM6,Endogenous,262.43,3.69,4848.62,324.23,NM_002483.4,CEACAM6,Immune Response
+CEACAM8,Endogenous,19.72,2.74,69.12,89.71,NM_001816.3,CD66b,Immune Response
+CEBPB,Endogenous,895.37,175.75,4423.68,81.79,NM_005194.2,C/EBP-beta,Immune Response
+CFB,Endogenous,225.05,13.3,2234.94,150.19,NM_001710.5,CFB,Immune Response
+CFD,Endogenous,876.65,34.44,16425.75,278.32,NM_001928.2,CFD,Immune Response
+CFI,Endogenous,313.89,17.52,1601.09,106.81,NM_000204.3,C3b-INA,Immune Response
+CFP,Endogenous,50.48,6.64,274.69,95.35,NM_002621.2,CFP,Immune Response
+CHIT1,Endogenous,50.16,6.36,344.23,124.27,NM_003465.2,CHIT1,Immune Response - Cell Type specific
+CHUK,Endogenous,381.53,163.82,777.28,28.85,NM_001278.3,IKK-alpha,Immune Response
+CKLF,Endogenous,795.68,270.01,3545.86,68.0,NM_181640.2,C32,Immune Response
+CLEC4A,Endogenous,192.81,72.37,699.43,69.08,NM_194448.2,DCIR,Immune Response
+CLEC4C,Endogenous,18.74,2.21,105.4,103.38,NM_203503.1,CLEC4C,Immune Response
+CLEC5A,Endogenous,99.09,1.66,567.14,130.32,NM_013252.2,MDL-1,Immune Response
+CLEC6A,Endogenous,28.86,4.46,161.28,99.39,NM_001007033.1,dectin-2,Immune Response
+CLEC7A,Endogenous,110.82,20.3,397.0,79.2,NM_197954.2,dectin-1,Immune Response
+CLU,Endogenous,26.72,4.67,117.12,95.25,NM_001831.2,CLU,Immune Response
+CMA1,Endogenous,34.91,3.44,142.09,90.69,NM_001836.2,CMA1,Immune Response - Cell Type specific
+CMKLR1,Endogenous,520.03,62.21,2386.37,82.42,NM_004072.1,CMKLR1,Immune Response
+CNOT10,Housekeeping,259.09,121.91,560.45,33.44,NM_001256741.1,CNOT10,HK
+CNOT4,Housekeeping,351.44,173.96,659.52,22.25,NM_001190848.1,CNOT4,HK
+COG7,Housekeeping,296.54,135.73,543.82,31.19,NM_153603.3,COG7,HK
+COL3A1,Endogenous,57954.65,2722.17,227165.0,89.35,NM_000090.3,COL3A1,Immune Response
+COLEC12,Endogenous,357.96,14.89,1584.38,98.68,NM_130386.2,COLEC12,Immune Response
+CR1,Endogenous,228.39,10.68,872.67,85.29,NM_000651.4,CD35,Immune Response
+CR2,Endogenous,56.4,7.2,345.59,103.52,NM_001006658.1,CD21,Immune Response - Cell Type specific
+CREB1,Endogenous,688.97,417.01,2013.22,40.63,NM_004379.3,CREB1,Immune Response
+CREB5,Endogenous,255.61,39.76,1117.83,87.33,NM_182898.2,CREB5,Immune Response
+CREBBP,Endogenous,50.87,14.16,276.47,81.33,NM_004380.2,CBP,Immune Response
+CRP,Endogenous,34.11,1.76,547.19,274.97,NM_000567.2,CRP,Immune Response
+CSF1,Endogenous,254.78,55.52,650.47,55.9,NM_000757.4,M-CSF,Immune Response
+CSF1R,Endogenous,73.61,10.87,207.36,56.02,NM_005211.2,CSF1R,Immune Response
+CSF2,Endogenous,10.0,1.0,32.41,72.8,NM_000758.2,GM-CSF,Immune Response - Cell Type specific
+CSF2RB,Endogenous,226.29,34.43,1773.33,115.28,NM_000395.2,CSF2RB,Immune Response
+CSF3,Endogenous,16.57,2.44,92.16,108.2,NM_000759.3,G-CSF,Immune Response
+CSF3R,Endogenous,218.18,24.17,3435.38,230.22,NM_156038.2,CSF3R,Immune Response - Cell Type specific
+CT45A1,Endogenous,62.49,6.1,692.87,197.06,NM_001017417.1,CT45A1,CT Antigen
+CTAG1B,Endogenous,213.73,6.3,3459.14,298.73,NM_001327.2,CTAG1B,CT Antigen
+CTAGE1,Endogenous,15.88,1.47,69.12,100.4,NM_172241.2,CTAGE1,CT Antigen
+CTCFL,Endogenous,23.38,2.5,115.2,110.58,NM_001269042.1,CTCFL,CT Antigen
+CTLA4,Endogenous,113.11,13.3,2547.16,319.89,NM_005214.3,CD152,Immune Response - Cell Type specific / Checkpoint
+CTSG,Endogenous,56.4,1.97,222.52,105.12,NM_001911.2,CTSG,Immune Response - Cell Type specific
+CTSH,Endogenous,599.8,73.17,5028.64,138.04,NM_004390.3,CTSH,Immune Response
+CTSL,Endogenous,748.89,185.61,4626.23,94.48,NM_001912.4,CTSL,Immune Response
+CTSS,Endogenous,1123.38,184.6,4637.44,85.72,NM_004079.3,CTSS,Immune Response
+CTSW,Endogenous,58.3,11.3,330.33,98.38,NM_001335.3,CTSW,Immune Response
+CX3CL1,Endogenous,252.69,21.59,860.79,88.93,NM_002996.3,CX3CL1,Immune Response
+CX3CR1,Endogenous,142.31,25.42,629.36,96.19,NM_001337.3,CX3CR1,Immune Response
+CXCL1,Endogenous,265.3,5.9,4247.82,254.83,NM_001511.1,CXCL1,Immune Response
+CXCL10,Endogenous,231.24,11.45,2614.16,179.75,NM_001565.1,CXCL10,Immune Response
+CXCL11,Endogenous,74.29,6.88,634.11,131.11,NM_005409.4,CXCL11,Immune Response
+CXCL12,Endogenous,832.42,58.25,4591.37,98.16,NM_000609.5,CXCL12,Immune Response
+CXCL13,Endogenous,85.21,4.83,1193.61,207.79,NM_006419.2,CXCL13,Immune Response - Cell Type specific
+CXCL14,Endogenous,1261.69,12.1,9091.59,158.83,NM_004887.4,CXCL14,Immune Response
+CXCL16,Endogenous,220.45,47.32,883.12,81.23,NM_001100812.1,CXCL16,Immune Response
+CXCL2,Endogenous,332.28,14.97,3543.13,192.01,NM_002089.3,CXCL2,Immune Response
+CXCL3,Endogenous,97.34,11.37,1209.9,194.07,NM_002090.2,CXCL3,Immune Response
+CXCL5,Endogenous,122.55,4.69,4669.44,547.49,NM_002994.3,CXCL5,Immune Response - Cell Type specific
+CXCL6,Endogenous,56.34,1.72,776.68,214.62,NM_002993.3,CXCL6,Immune Response
+CXCL9,Endogenous,466.86,18.49,5003.32,167.8,NM_002416.1,MIG,Immune Response
+CXCR1,Endogenous,48.47,4.8,733.67,216.04,NM_000634.2,IL8RA,Immune Response
+CXCR2,Endogenous,78.09,4.58,2294.89,420.82,NM_001557.2,IL8RB,Immune Response
+CXCR3,Endogenous,51.33,8.46,213.51,83.74,NM_001504.1,CXCR3,Immune Response
+CXCR4,Endogenous,1281.49,169.9,9800.69,115.08,NM_003467.2,CXCR4,Immune Response
+CXCR5,Endogenous,13.38,1.53,70.27,114.03,NM_001716.3,CXCR5,Immune Response
+CXCR6,Endogenous,42.24,13.89,133.98,65.77,NM_006564.1,CXCR6,Immune Response - Cell Type specific
+CYBB,Endogenous,649.1,90.88,1733.29,71.71,NM_000397.3,CYBB,Immune Response
+CYFIP2,Endogenous,877.78,40.68,7114.29,185.42,NM_001037332.2,CYFIP2,Immune Response
+CYLD,Endogenous,365.75,197.56,1014.34,41.24,NM_015247.1,CYLD,Immune Response
+DDX43,Endogenous,45.35,2.7,280.32,140.6,NM_018665.2,HAGE,CT Antigen
+DDX50,Housekeeping,309.96,196.73,520.59,23.55,NM_024045.1,DDX50,HK
+DDX58,Endogenous,247.45,60.76,1671.53,91.49,NM_014314.3,RIG-I,Immune Response
+DEFB1,Endogenous,17.39,3.43,77.67,85.56,NM_005218.3,DEFB1,Immune Response
+DHX16,Housekeeping,210.74,117.67,319.38,26.23,NM_001164239.1,DBP2,HK
+DMBT1,Endogenous,266.72,3.69,4080.91,312.06,NM_007329.2,DMBT1,Immune Response
+DNAJC14,Housekeeping,140.48,75.07,265.75,30.4,NM_032364.5,DNAJ,HK
+DOCK9,Endogenous,502.96,92.85,3311.81,110.79,NM_001130048.1,DOCK9,Immune Response - Cell Type specific
+DPP4,Endogenous,113.66,7.63,562.06,106.46,NM_001935.3,CD26,Immune Response
+DUSP4,Endogenous,321.78,16.11,2822.99,191.55,NM_057158.2,DUSP4,Immune Response
+DUSP6,Endogenous,508.65,106.68,2490.04,92.1,NM_001946.2,DUSP6,Immune Response
+EBI3,Endogenous,20.36,3.61,58.56,58.19,NM_005755.2,EBI3,Immune Response - Cell Type specific
+ECSIT,Endogenous,301.57,160.11,560.47,28.74,NM_001142464.2,ECSIT,Immune Response
+EDC3,Housekeeping,577.42,322.62,1023.19,25.91,NM_001142443.1,EDC3,HK
+EGR1,Endogenous,276.65,11.45,1683.61,132.77,NM_001964.2,EGR1,Immune Response
+EGR2,Endogenous,112.8,15.47,406.93,88.61,NM_000399.3,EGR2,Immune Response
+EIF2B4,Housekeeping,441.94,293.8,637.11,20.4,NM_172195.3,EIF-2B,HK
+ELANE,Endogenous,28.04,6.17,184.32,103.1,NM_001972.2,ELA2,Immune Response
+ELK1,Endogenous,305.2,121.92,896.07,57.83,NM_005229.3,ELK1,Immune Response
+ENG,Endogenous,904.3,197.56,2619.59,69.92,NM_001114753.1,ENG,Immune Response
+ENTPD1,Endogenous,273.91,58.59,1029.29,72.87,NM_001098175.1,CD39,Immune Response
+EOMES,Endogenous,23.17,4.69,138.24,97.95,NM_005442.2,EOMES,Immune Response
+EP300,Endogenous,535.02,230.86,1058.88,31.63,NM_001429.2,p300,Immune Response
+EPCAM,Endogenous,99.1,4.65,860.22,156.99,NM_002354.1,EPCAM,Immune Response
+ERCC3,Housekeeping,206.55,114.58,357.84,25.79,NM_000122.1,XPB,HK
+ETS1,Endogenous,1130.08,239.54,5456.34,88.81,NM_005238.3,ETS-1,Immune Response
+EWSR1,Endogenous,1451.36,391.67,3431.95,32.42,NM_013986.3,EWS,Immune Response - Cell Type specific
+F12,Endogenous,52.03,1.72,1346.65,370.16,NM_000505.3,F12,Immune Response
+F13A1,Endogenous,3081.85,124.07,38487.97,182.81,NM_000129.3,F13A1,Immune Response - Cell Type specific
+F2RL1,Endogenous,43.45,4.29,221.24,101.03,NM_005242.3,PAR2,Immune Response
+FADD,Endogenous,84.19,27.03,253.43,46.19,NM_003824.2,FADD,Immune Response
+FAS,Endogenous,79.94,18.29,302.34,65.25,NM_000043.3,FAS,Immune Response
+FCER1A,Endogenous,76.74,4.26,283.45,88.11,NM_002001.2,FCER1A,Immune Response
+FCER1G,Endogenous,611.96,128.69,2241.55,67.37,NM_004106.1,FCER1G,Immune Response
+FCER2,Endogenous,23.12,6.1,93.69,88.16,NM_002002.4,CD23,Immune Response
+FCF1,Housekeeping,1709.29,842.4,3211.0,28.82,NM_015962.4,Bka,HK
+FCGR1A,Endogenous,54.34,13.96,158.76,66.92,NM_000566.3,CD64,Immune Response
+FCGR2A,Endogenous,1117.87,124.69,4782.87,81.31,NM_021642.3,CD32,Immune Response
+FCGR2B,Endogenous,332.41,12.57,2199.85,124.53,NM_001002273.1,CD32,Immune Response
+FCGR3A,Endogenous,1267.6,60.21,5052.93,95.06,NM_000569.6,CD16,Immune Response
+FEZ1,Endogenous,338.25,21.23,1729.57,88.31,NM_005103.4,FEZ1,Immune Response - Cell Type specific
+FLT3,Endogenous,24.79,6.04,105.4,75.28,NM_004119.1,FLT3,Immune Response
+FLT3LG,Endogenous,157.65,46.22,542.95,57.41,NM_001459.3,FLT3LG,Immune Response - Cell Type specific
+FN1,Endogenous,35476.83,166.3,271072.0,145.12,NM_212482.1,FN1,Immune Response
+FOS,Endogenous,3181.99,38.66,34617.73,180.48,NM_005252.2,c-fos,Immune Response
+FOXJ1,Endogenous,39.66,7.88,194.75,100.02,NM_001454.3,FOXJ1,Immune Response - Cell Type specific
+FOXP3,Endogenous,33.54,9.69,161.28,78.28,NM_014009.3,FOXP3,Immune Response - Cell Type specific
+FPR2,Endogenous,51.56,3.44,379.0,123.44,NM_001462.3,FPR2,Immune Response - Cell Type specific
+FUT5,Endogenous,20.42,4.32,138.24,117.58,NM_002034.2,FUT5,Immune Response - Cell Type specific
+FUT7,Endogenous,32.65,2.34,207.36,114.16,NM_004479.3,FUT7,Immune Response
+FYN,Endogenous,761.91,161.87,2864.84,61.61,NM_002037.3,FYN,Immune Response
+G6PD,Housekeeping,432.18,123.77,1429.39,61.39,NM_000402.2,G6PD,HK
+GAGE1,Endogenous,21.86,3.05,113.51,107.23,NM_001040663.2,GAGE1,CT Antigen
+GATA3,Endogenous,18.0,4.16,69.12,80.0,NM_001002295.1,GATA3,Immune Response - Cell Type specific
+GNLY,Endogenous,120.59,11.71,1070.95,158.99,NM_006433.2,GNLY,Immune Response - Cell Type specific
+GPATCH3,Housekeeping,137.23,49.39,483.83,58.78,NM_022078.2,GPATCH3,HK
+GPI,Endogenous,1111.99,423.9,2533.06,45.48,NM_000175.2,GPI,Immune Response
+GTF3C1,Endogenous,433.58,46.08,755.45,34.24,NM_001520.3,GTF3C1,Immune Response - Cell Type specific
+GUSB,Housekeeping,267.63,88.38,1714.66,101.24,NM_000181.1,GUSB,HK
+GZMA,Endogenous,182.34,16.63,938.15,108.69,NM_006144.2,GZMA,Immune Response - Cell Type specific
+GZMB,Endogenous,82.34,5.44,601.54,127.13,NM_004131.3,GZMB,Immune Response - Cell Type specific
+GZMH,Endogenous,37.91,7.25,175.67,77.04,NM_033423.3,GZMH,Immune Response - Cell Type specific
+GZMK,Endogenous,109.52,7.9,559.33,93.98,NM_002104.2,GZMK,Immune Response
+GZMM,Endogenous,27.22,5.28,132.13,85.52,NM_005317.2,MET1,Immune Response - Cell Type specific
+HAMP,Endogenous,49.28,6.63,1005.55,297.68,NM_021175.2,HAMP,Immune Response
+HAVCR2,Endogenous,162.26,24.95,414.2,63.65,NM_032782.3,HAVCR2,Immune Response - Checkpoint
+HCK,Endogenous,259.44,57.38,1109.2,76.29,NM_002110.2,HCK,Immune Response
+HDAC3,Housekeeping,342.34,207.95,609.62,25.14,NM_003883.2,HDAC3,HK
+HLA-A,Endogenous,3858.42,909.69,9799.63,51.89,NM_002116.5,HLA-A,Immune Response
+HLA-B,Endogenous,5399.63,934.63,12651.78,51.92,NM_005514.6,HLA-B,Immune Response
+HLA-C,Endogenous,3028.24,309.33,11112.1,75.73,NM_002117.4,HLA-C,Immune Response
+HLA-DMA,Endogenous,431.86,121.4,1275.02,60.93,NM_006120.3,HLA-DMA,Immune Response
+HLA-DMB,Endogenous,610.14,104.77,1631.48,64.84,NM_002118.3,HLA-DMB,Immune Response
+HLA-DOB,Endogenous,68.27,9.58,210.81,69.08,NM_002120.3,HLA-DOB,Immune Response - Cell Type specific
+HLA-DPA1,Endogenous,1591.62,299.35,4651.43,70.7,NM_033554.2,HLA-DPA1,Immune Response
+HLA-DPB1,Endogenous,2460.97,291.03,9023.61,77.89,NM_002121.4,HLA-DPB1,Immune Response
+HLA-DQA1,Endogenous,1216.14,5.0,5208.39,113.89,NM_002122.3,HLA-DQA1,Immune Response
+HLA-DQB1,Endogenous,325.05,5.28,1612.87,116.82,NM_002123.3,HLA-DQB1,Immune Response
+HLA-DRA,Endogenous,5797.48,661.89,22574.57,89.02,NM_019111.3,HLA-DRA,Immune Response
+HLA-DRB3,Endogenous,3553.96,779.97,13356.98,75.56,NM_022555.3,HLA-DRB3,Immune Response
+HLA-DRB4,Endogenous,482.04,4.91,4038.31,162.45,NM_021983.4,HLA-DRB4,Immune Response
+HLA-E,Endogenous,3460.09,951.09,11201.05,58.65,NM_005516.4,HLA-E,Immune Response
+HLA-G,Endogenous,283.15,33.26,696.47,54.42,NM_002127.4,HLA-G,Immune Response
+HMGB1,Endogenous,191.01,97.54,390.56,36.59,NM_002128.4,HMGB1,Immune Response
+HPRT1,Housekeeping,667.58,216.79,1710.64,48.07,NM_000194.1,HPRT,HK
+HRAS,Endogenous,123.8,53.49,251.23,33.43,NM_005343.2,HRAS,Immune Response
+HSD11B1,Endogenous,100.48,9.06,1118.76,185.66,NM_181755.1,HSD11B1,Immune Response - Cell Type specific
+ICAM1,Endogenous,325.97,46.4,1165.34,89.73,NM_000201.2,ICAM1,Immune Response
+ICAM2,Endogenous,235.13,46.08,2462.95,172.49,NM_000873.3,ICAM2,Immune Response
+ICAM3,Endogenous,265.01,77.72,1703.78,88.39,NM_002162.3,ICAM3,Immune Response
+ICAM4,Endogenous,37.05,9.54,161.28,81.55,NM_001039132.1,ICAM4,Immune Response
+ICOS,Endogenous,40.44,8.46,210.81,85.37,NM_012092.2,ICOS,Immune Response - Cell Type specific / Checkpoint
+ICOSLG,Endogenous,253.74,27.66,6055.52,338.75,NM_015259.4,ICOSL,Immune Response
+IDO1,Endogenous,109.03,14.42,1319.81,187.55,NM_002164.3,INDO,Immune Response - Cell Type specific
+IFI16,Endogenous,1163.41,96.5,3055.41,58.39,NM_005531.1,IFI16,Immune Response
+IFI27,Endogenous,2567.61,114.15,22592.79,148.98,NM_005532.3,P27,Immune Response
+IFI35,Endogenous,125.44,37.91,445.74,64.23,NM_005533.3,IFI35,Immune Response
+IFIH1,Endogenous,202.22,34.92,1201.5,83.6,NM_022168.2,MDA5,Immune Response
+IFIT1,Endogenous,376.94,57.7,3927.38,147.86,NM_001548.3,IFIT1,Immune Response
+IFIT2,Endogenous,270.32,39.67,1000.06,69.42,NM_001547.4,IFIT2,Immune Response
+IFITM1,Endogenous,1165.41,155.09,6639.63,102.91,NM_003641.3,IFITM1,Immune Response
+IFITM2,Endogenous,2429.19,311.31,7271.19,59.68,NM_006435.2,IFITM2,Immune Response
+IFNA1,Endogenous,9.06,2.08,46.08,79.92,NM_024013.1,IFN-ALPHA,Immune Response
+IFNA17,Endogenous,11.52,1.0,138.33,171.16,NM_021268.2,IFNA17,Immune Response
+IFNA2,Endogenous,20.59,3.19,138.24,111.94,NM_000605.3,IFNA2,Immune Response
+IFNA7,Endogenous,33.78,4.8,225.7,109.88,NM_021057.2,IFNA7,Immune Response
+IFNA8,Endogenous,8.14,1.53,47.32,103.07,NM_002170.3,IFNA8,Immune Response
+IFNAR1,Endogenous,260.29,118.27,770.89,47.74,NM_000629.2,IFNAR1,Immune Response
+IFNAR2,Endogenous,602.34,217.31,1046.67,37.26,NM_000874.3,IFNABR,Immune Response
+IFNB1,Endogenous,22.33,4.8,138.24,95.29,NM_002176.2,IFNB,Immune Response
+IFNG,Endogenous,38.43,3.19,230.4,104.78,NM_000619.2,IFNG,Immune Response - Cell Type specific
+IFNGR1,Endogenous,713.59,364.04,1683.46,41.75,NM_000416.1,IFNGR1,Immune Response
+IFNL1,Endogenous,37.09,3.69,184.32,96.76,NM_172140.1,IL29,Immune Response
+IFNL2,Endogenous,35.01,4.42,171.1,89.88,NM_172138.1,IL28A,Immune Response
+IGF1R,Endogenous,1505.13,154.82,7508.11,82.52,NM_000875.2,IGF-1,Immune Response
+IGF2R,Endogenous,409.74,150.04,1020.95,41.92,NM_000876.1,IGF2R,Immune Response
+IGLL1,Endogenous,13.03,1.24,72.81,102.14,NM_020070.2,IGLL1,Immune Response
+IKBKB,Endogenous,180.49,69.08,390.59,39.19,NM_001556.1,IKK-beta,Immune Response
+IKBKE,Endogenous,94.27,23.04,215.13,48.41,NM_014002.2,IKBKE,Immune Response
+IKBKG,Endogenous,315.35,46.08,900.01,45.88,NM_003639.2,IKK-gamma,Immune Response
+IL10,Endogenous,41.86,5.9,138.24,78.27,NM_000572.2,IL10,Immune Response
+IL10RA,Endogenous,283.51,66.44,707.16,58.14,NM_001558.2,IL10RA,Immune Response
+IL11,Endogenous,129.65,3.05,2976.13,357.94,NM_000641.2,IL11,Immune Response
+IL11RA,Endogenous,179.56,29.71,1060.06,105.13,NM_147162.1,IL11RA,Immune Response
+IL12A,Endogenous,29.98,4.83,95.59,69.23,NM_000882.2,p35,Immune Response
+IL12B,Endogenous,16.54,2.64,138.24,131.12,NM_002187.2,IL12B,Immune Response
+IL12RB1,Endogenous,62.38,8.85,207.36,70.3,NM_005535.1,IL12RB1,Immune Response
+IL12RB2,Endogenous,22.26,3.02,90.4,82.06,NM_001559.2,IL12RB2,Immune Response - Cell Type specific
+IL13,Endogenous,27.18,3.19,161.28,99.79,NM_002188.2,IL13,Immune Response
+IL13RA1,Endogenous,1157.22,222.32,2549.49,45.24,NM_001560.2,IL13RA1,Immune Response
+IL13RA2,Endogenous,21.86,2.57,137.69,112.03,NM_000640.2,IL-13R,Immune Response
+IL15,Endogenous,94.9,20.22,483.83,78.89,NM_172174.1,IL15,Immune Response
+IL15RA,Endogenous,133.59,12.68,376.93,66.55,NM_002189.2,IL15RA,Immune Response
+IL16,Endogenous,299.52,43.46,855.37,69.27,NM_004513.4,IL16,Immune Response
+IL17A,Endogenous,20.69,2.95,105.4,98.14,NM_002190.2,IL17A,Immune Response - Cell Type specific
+IL17B,Endogenous,67.37,3.08,1127.29,288.21,NM_014443.2,IL17B,Immune Response
+IL17F,Endogenous,15.61,1.47,91.01,105.15,NM_052872.3,IL17F,Immune Response
+IL17RA,Endogenous,108.0,33.46,278.17,47.79,NM_014339.6,IL17RA,Immune Response - Cell Type specific
+IL17RB,Endogenous,37.46,3.82,158.63,86.62,NM_018725.3,IL17RB,Immune Response
+IL18,Endogenous,182.94,20.85,1068.23,104.99,NM_001562.2,IL18,Immune Response
+IL18R1,Endogenous,82.31,9.92,380.07,93.35,NM_003855.2,IL18R1,Immune Response
+IL18RAP,Endogenous,27.86,3.57,125.18,90.91,NM_003853.2,IL18RAP,Immune Response
+IL19,Endogenous,30.28,6.51,230.4,119.94,NM_013371.3,IL19,Immune Response
+IL1A,Endogenous,13.1,1.47,93.69,137.78,NM_000575.3,IL1-ALPHA,Immune Response
+IL1B,Endogenous,60.99,7.53,255.94,84.87,NM_000576.2,IL1-BETA,Immune Response
+IL1R1,Endogenous,543.52,32.87,2303.95,86.86,NM_000877.2,IL1R1,Immune Response
+IL1R2,Endogenous,53.57,7.25,274.69,107.51,NM_173343.1,IL1R2,Immune Response
+IL1RAP,Endogenous,171.64,34.43,439.37,55.63,NM_002182.2,IL1RAP,Immune Response
+IL1RAPL2,Endogenous,32.47,7.58,161.28,89.25,NM_017416.1,IL1RAPL2,Immune Response
+IL1RL1,Endogenous,99.2,5.9,958.03,165.58,NM_016232.4,IL1RL1,Immune Response
+IL1RL2,Endogenous,30.45,6.66,115.2,73.27,NM_003854.2,IL1RL2,Immune Response
+IL1RN,Endogenous,48.15,2.46,351.09,120.04,NM_000577.3,IL1RN,Immune Response
+IL2,Endogenous,13.82,1.0,92.16,124.74,NM_000586.2,IL2,Immune Response
+IL21,Endogenous,21.78,1.97,161.28,118.34,NM_021803.2,IL21,Immune Response
+IL21R,Endogenous,44.0,3.62,146.61,79.18,NM_021798.2,IL21R,Immune Response - Cell Type specific
+IL22,Endogenous,12.73,1.0,106.13,137.54,NM_020525.4,IL22,Immune Response
+IL22RA1,Endogenous,55.14,5.83,299.51,90.52,NM_021258.2,IL22RA1,Immune Response
+IL22RA2,Endogenous,31.79,6.39,161.28,91.26,NM_181310.1,IL22RA2,Immune Response
+IL23A,Endogenous,33.37,5.69,125.46,84.56,NM_016584.2,IL23A,Immune Response
+IL23R,Endogenous,19.15,3.57,93.69,103.23,NM_144701.2,IL23R,Immune Response
+IL24,Endogenous,121.73,2.46,4314.61,508.65,NM_181339.1,IL24,Immune Response
+IL25,Endogenous,17.74,3.18,69.12,87.44,NM_022789.2,IL25,Immune Response
+IL26,Endogenous,46.9,5.83,353.39,122.04,NM_018402.1,IL26,Immune Response - Cell Type specific
+IL27,Endogenous,18.53,3.19,109.21,102.44,NM_145659.3,p28,Immune Response
+IL2RA,Endogenous,130.52,5.44,653.56,102.72,NM_000417.1,IL2R,Immune Response
+IL2RB,Endogenous,131.86,17.52,601.54,78.17,NM_000878.2,IL2RB,Immune Response
+IL2RG,Endogenous,159.42,16.63,1004.88,115.21,NM_000206.1,IL2RG,Immune Response
+IL3,Endogenous,14.23,1.71,70.27,105.96,NM_000588.3,IL3,Immune Response
+IL32,Endogenous,575.82,25.97,4254.14,138.46,NM_004221.4,IL32,Immune Response
+IL34,Endogenous,47.86,4.24,245.59,92.7,NM_152456.1,IL34,Immune Response
+IL3RA,Endogenous,62.58,14.22,210.81,82.63,NM_002183.2,CD123,Immune Response - Cell Type specific
+IL4,Endogenous,30.88,2.06,207.36,129.9,NM_000589.2,IL4,Immune Response
+IL4R,Endogenous,353.53,53.75,1015.16,65.37,NM_000418.2,CD124,Immune Response
+IL5,Endogenous,9.12,1.0,46.08,92.98,NM_000879.2,IL5,Immune Response
+IL5RA,Endogenous,26.43,6.25,138.24,92.03,NM_000564.3,IL5RA,Immune Response - Cell Type specific
+IL6,Endogenous,143.49,6.14,2490.01,276.91,NM_000600.1,IL6,Immune Response
+IL6R,Endogenous,183.36,18.95,1066.73,116.66,NM_000565.2,CD126,Immune Response
+IL6ST,Endogenous,3597.36,961.24,9674.04,53.61,NM_002184.2,GP130,Immune Response
+IL7,Endogenous,32.36,2.4,182.99,125.78,NM_000880.2,IL7,Immune Response
+IL7R,Endogenous,315.45,9.06,2217.98,155.69,NM_002185.2,CD127,Immune Response
+IL8,Endogenous,921.11,4.91,33201.91,519.53,,,
+IL9,Endogenous,13.48,1.67,47.8,76.45,NM_000590.1,P40,Immune Response
+ILF3,Endogenous,1658.01,345.59,3026.75,29.45,NM_001137673.1,ILF3,Immune Response
+INPP5D,Endogenous,282.58,54.28,3909.73,194.25,NM_005541.3,INPP5D,Immune Response
+IRAK1,Endogenous,931.86,176.95,4444.1,92.5,NM_001569.3,IRAK,Immune Response
+IRAK2,Endogenous,57.32,18.74,171.01,61.03,NM_001570.3,IRAK2,Immune Response
+IRAK4,Endogenous,195.68,91.83,368.63,31.69,NM_016123.1,IRAK4,Immune Response
+IRF1,Endogenous,251.3,78.38,875.48,66.8,NM_002198.1,IRF1,Immune Response
+IRF2,Endogenous,428.07,186.1,1198.06,44.99,NM_002199.3,IRF2,Immune Response
+IRF3,Endogenous,155.23,57.57,341.77,42.63,NM_001571.5,IRF3,Immune Response
+IRF4,Endogenous,234.32,16.73,2392.08,210.21,NM_002460.1,IRF4,Immune Response
+IRF5,Endogenous,61.15,19.33,142.82,50.6,NM_002200.3,IRF5,Immune Response
+IRF7,Endogenous,244.38,51.75,807.19,58.96,NM_001572.3,IRF7,Immune Response
+IRF8,Endogenous,100.86,14.97,234.26,57.88,NM_002163.2,IRF8,Immune Response
+IRGM,Endogenous,22.52,2.86,82.3,89.37,NM_001145805.1,IRGM,Immune Response
+ISG15,Endogenous,759.27,83.73,7410.45,163.04,NM_005101.3,ISG15,Immune Response
+ISG20,Endogenous,144.48,29.0,428.44,63.39,NM_002201.4,ISG20,Immune Response
+ITCH,Endogenous,806.33,442.37,1544.78,28.6,NM_001257138.1,ITCH,Immune Response
+ITGA1,Endogenous,1347.84,154.02,4906.37,78.79,NM_181501.1,CD49a,Immune Response
+ITGA2,Endogenous,196.9,7.51,1927.03,150.07,NM_002203.2,CD49b,Immune Response
+ITGA2B,Endogenous,43.31,3.67,598.06,198.9,NM_000419.3,CD41,Immune Response
+ITGA4,Endogenous,205.94,37.24,501.17,58.59,NM_000885.4,CD49D,Immune Response
+ITGA5,Endogenous,1768.23,241.67,11016.23,104.12,NM_002205.2,CD49e,Immune Response
+ITGA6,Endogenous,524.68,75.17,4164.31,133.61,NM_000210.1,CD49f,Immune Response
+ITGAE,Endogenous,235.2,104.19,857.85,51.62,NM_002208.4,CD103,Immune Response
+ITGAL,Endogenous,205.29,32.62,994.45,92.13,NM_002209.2,CD11A,Immune Response
+ITGAM,Endogenous,179.18,39.91,472.62,64.83,NM_000632.3,CD11b,Immune Response
+ITGAX,Endogenous,320.64,33.41,1858.05,112.2,NM_000887.3,CD11c,Immune Response
+ITGB1,Endogenous,6801.38,1809.26,27679.58,66.74,NM_033666.2,CD29,Immune Response
+ITGB2,Endogenous,458.25,81.49,1230.07,68.5,NM_000211.2,CD18,Immune Response
+ITGB3,Endogenous,217.48,14.5,705.83,90.67,NM_000212.2,CD61,Immune Response
+ITGB4,Endogenous,151.89,8.53,737.83,120.38,NM_001005731.1,CD104,Immune Response
+ITK,Endogenous,225.49,7.9,1828.18,167.52,NM_005546.3,ITK,Immune Response
+JAK1,Endogenous,1009.86,367.68,1798.64,31.14,NM_002227.1,JAK1,Immune Response
+JAK2,Endogenous,462.79,193.03,887.86,36.15,NM_004972.2,JAK2,Immune Response
+JAK3,Endogenous,188.11,30.93,672.86,72.62,NM_000215.2,JAK3,Immune Response
+JAM3,Endogenous,569.85,80.95,2112.98,81.22,NM_032801.3,JAM3,Immune Response
+KIR3DL1,Endogenous,17.77,4.83,58.56,65.64,NM_013289.2,KIR3DL1,Immune Response - Checkpoint
+KIR3DL2,Endogenous,24.21,3.43,138.24,113.28,NM_006737.2,KIR3DL2,Immune Response
+KIR3DL3,Endogenous,26.48,3.77,230.4,136.8,NM_153443.3,KIR3DL3,Immune Response
+KIR_Activating_Subgroup_1,Endogenous,16.0,2.13,93.69,98.35,,,
+KIR_Activating_Subgroup_2,Endogenous,20.09,3.62,128.83,105.35,,,
+KIR_Inhibiting_Subgroup_1,Endogenous,33.63,3.77,161.28,93.18,,,
+KIR_Inhibiting_Subgroup_2,Endogenous,25.5,6.11,161.28,107.38,,,
+KIT,Endogenous,81.05,12.38,400.32,110.71,NM_000222.2,KIT,Immune Response - Cell Type specific
+KLRB1,Endogenous,67.4,8.46,375.53,113.83,NM_002258.2,CD161,Immune Response
+KLRC1,Endogenous,59.06,6.04,184.32,62.46,NM_002259.3,KLRC1,Immune Response
+KLRC2,Endogenous,52.91,3.19,367.88,136.74,NM_002260.3,KLRC2,Immune Response
+KLRD1,Endogenous,37.26,4.8,159.95,84.37,NM_002262.3,CD94,Immune Response - Cell Type specific
+KLRF1,Endogenous,33.16,7.2,267.74,122.46,NM_016523.1,NKp80,Immune Response - Cell Type specific
+KLRG1,Endogenous,49.06,9.92,163.96,80.8,NM_005810.3,KLRG1,Immune Response
+KLRK1,Endogenous,74.93,9.66,396.39,89.97,NM_007360.3,KLRK1,Immune Response
+LAG3,Endogenous,132.76,11.29,1269.11,167.61,NM_002286.5,CD223,Immune Response - Checkpoint
+LAIR2,Endogenous,141.76,31.6,332.8,56.18,NM_002288.3,LAIR2,Immune Response - Cell Type specific
+LAMP1,Endogenous,4267.66,1298.84,10807.79,53.18,NM_005561.3,LAMP1,Immune Response
+LAMP2,Endogenous,1286.97,320.97,4653.99,62.02,NM_001122606.1,LAMP2,Immune Response
+LAMP3,Endogenous,150.71,6.77,2600.38,287.01,NM_014398.3,LAMP3,Immune Response - Cell Type specific
+LBP,Endogenous,69.59,3.18,662.82,186.29,NM_004139.2,LBP,Immune Response
+LCK,Endogenous,86.51,16.91,322.55,80.44,NM_005356.2,LCK,Immune Response
+LCN2,Endogenous,31.34,2.7,194.72,127.77,NM_005564.3,LCN2,Immune Response
+LCP1,Endogenous,530.76,85.77,1901.98,75.77,NM_002298.4,plastin-2,Immune Response
+LGALS3,Endogenous,2148.19,189.05,14438.35,117.28,NM_001177388.1,LGALS3,Immune Response
+LIF,Endogenous,147.67,3.67,1544.78,183.34,NM_002309.3,LIF,Immune Response
+LILRA1,Endogenous,43.38,9.09,230.4,98.41,NM_006863.1,LILRA1,Immune Response
+LILRA4,Endogenous,15.48,2.7,81.98,99.31,NM_012276.3,LILRA4,Immune Response
+LILRA5,Endogenous,46.73,7.85,264.26,99.26,NM_181879.2,LILRA5,Immune Response
+LILRB1,Endogenous,104.33,13.79,352.05,63.59,NM_001081637.1,LILRB1,Immune Response
+LILRB2,Endogenous,73.59,16.31,358.14,75.86,NM_005874.1,LILRB2,Immune Response
+LILRB3,Endogenous,48.15,3.87,392.91,120.01,NM_006864.2,LILRB3,Immune Response
+LRP1,Endogenous,2470.08,447.75,6356.81,59.93,NM_002332.2,LRP1,Immune Response
+LRRN3,Endogenous,170.33,11.65,750.05,115.18,NM_001099660.1,LRRN3,Immune Response
+LTA,Endogenous,36.59,10.87,115.2,62.89,NM_000595.2,LTA,Immune Response - Cell Type specific
+LTB,Endogenous,84.95,3.95,855.37,149.06,NM_002341.1,LTB,Immune Response
+LTBR,Endogenous,705.8,340.16,1362.5,39.12,NM_002342.1,LTBR,Immune Response
+LTF,Endogenous,80.92,4.26,1274.15,234.54,NM_002343.2,LTF,Immune Response
+LTK,Endogenous,64.25,4.33,332.95,120.62,NM_001135685.1,LTK,Immune Response - Cell Type specific
+LY86,Endogenous,100.55,27.15,241.42,60.63,NM_004271.3,MD-1,Immune Response
+LY9,Endogenous,148.91,19.17,1036.78,114.31,NM_001033667.1,LY9,Immune Response
+LY96,Endogenous,393.56,43.24,1257.61,63.26,NM_015364.2,MD-2,Immune Response
+LYN,Endogenous,154.81,27.18,461.48,68.84,NM_002350.1,LYN,Immune Response
+MAF,Endogenous,969.72,255.64,2781.81,55.69,NM_005360.4,MAF,Immune Response - Cell Type specific
+MAGEA1,Endogenous,27.41,2.06,310.88,182.65,NM_004988.4,MAGEA1,CT Antigen
+MAGEA12,Endogenous,34.17,3.69,161.28,109.25,NM_001166386.1,MAGEA12,CT Antigen
+MAGEA3,Endogenous,342.1,5.0,2944.22,188.78,NM_005362.3,MAGEA3,CT Antigen
+MAGEA4,Endogenous,11.7,1.9,35.13,71.28,NM_001011548.1,MAGEA4,CT Antigen
+MAGEB2,Endogenous,32.48,2.06,280.42,147.09,NM_002364.4,MAGEB2,CT Antigen
+MAGEC1,Endogenous,29.59,1.72,168.5,118.61,NM_005462.4,MAGEC1,CT Antigen
+MAGEC2,Endogenous,69.51,5.14,741.47,201.21,NM_016249.3,MAGEC2,CT Antigen
+MAP2K1,Endogenous,459.82,146.68,887.09,34.23,NM_002755.2,MAP2K1,Immune Response
+MAP2K2,Endogenous,1280.92,589.74,2628.39,33.74,NM_030662.2,MAP2K2,Immune Response
+MAP2K4,Endogenous,320.04,123.61,1534.5,70.19,NM_003010.2,MAP2K4,Immune Response
+MAP3K1,Endogenous,276.54,82.1,894.62,60.32,NM_005921.1,MAP3K1,Immune Response
+MAP3K5,Endogenous,399.48,73.09,1075.67,60.51,NM_005923.3,MAPKKK5,Immune Response
+MAP3K7,Endogenous,746.76,373.11,1274.36,23.17,NM_145333.1,MAP3K7,Immune Response
+MAP4K2,Endogenous,185.13,77.35,628.21,50.16,NM_004579.2,MAP4K2,Immune Response
+MAPK1,Endogenous,665.2,138.24,1268.51,40.18,NM_138957.2,MAPK1,Immune Response
+MAPK11,Endogenous,41.13,9.3,122.16,67.05,NM_002751.5,SAPK2,Immune Response
+MAPK14,Endogenous,602.3,184.32,884.68,24.7,NM_001315.1,MAPK14,Immune Response
+MAPK3,Endogenous,552.37,207.36,951.98,35.84,NM_001040056.1,MAPK3,Immune Response
+MAPK8,Endogenous,269.02,112.85,758.01,40.43,NM_002750.2,JNK1,Immune Response
+MAPKAPK2,Endogenous,612.78,184.1,1632.76,44.31,NM_004759.3,MAPKAPK2,Immune Response
+MARCO,Endogenous,214.43,3.69,1836.18,183.65,NM_006770.3,MARCO,Immune Response - Cell Type specific
+MASP1,Endogenous,44.9,6.17,171.63,87.75,NM_139125.3,MASP,Immune Response
+MASP2,Endogenous,23.29,3.44,115.2,111.81,NM_139208.1,MASP2,Immune Response
+MAVS,Endogenous,755.33,326.54,1396.76,29.21,NM_020746.3,MAVS,Immune Response
+MBL2,Endogenous,60.52,5.14,398.2,126.37,NM_000242.2,MBL,Immune Response
+MCAM,Endogenous,698.54,42.83,4993.09,124.4,NM_006500.2,CD146,Immune Response
+MEF2C,Endogenous,803.8,78.71,5256.77,119.66,NM_002397.3,MEF2C,Immune Response
+MEFV,Endogenous,38.54,4.18,382.48,149.64,NM_000243.2,MEFV,Immune Response
+MERTK,Endogenous,402.93,111.42,1106.09,55.17,NM_006343.2,MERTK,Immune Response
+MFGE8,Endogenous,4649.87,323.74,24138.76,120.22,NM_001114614.1,MFGE8,Immune Response
+MICA,Endogenous,118.82,41.89,245.73,46.88,NM_000247.1,MICA,Immune Response
+MICB,Endogenous,247.4,19.96,1477.23,92.91,NM_005931.3,MICB,Immune Response
+MIF,Endogenous,2023.93,151.14,4603.04,50.32,NM_002415.1,MIF,Immune Response
+MME,Endogenous,358.24,9.06,3983.14,195.75,NM_000902.2,CD10,Immune Response - Cell Type specific
+MNX1,Endogenous,25.09,3.93,415.21,236.39,NM_005515.3,HLXB9,Immune Response
+MPPED1,Endogenous,30.1,5.0,146.01,115.56,NM_001044370.1,MPPED1,Immune Response - Cell Type specific
+MR1,Endogenous,117.73,29.98,540.01,82.58,NM_001531.2,MR1,Immune Response
+MRC1,Endogenous,496.91,45.9,1758.22,92.22,NM_002438.2,MRC1,Immune Response
+MRPS5,Housekeeping,579.03,299.51,942.21,26.2,NM_031902.3,MRPS5,HK
+MS4A1,Endogenous,22.27,3.71,187.76,138.88,NM_152866.2,CD20,Immune Response - Cell Type specific
+MS4A2,Endogenous,56.41,5.41,293.04,105.91,NM_000139.3,MS4A2,Immune Response - Cell Type specific
+MSR1,Endogenous,694.6,84.82,2497.42,84.28,NM_002445.3,MSR1,Immune Response - Cell Type specific
+MST1R,Endogenous,70.88,7.95,448.55,124.04,NM_002447.1,MST1R,Immune Response
+MTMR14,Housekeeping,402.09,258.03,654.94,23.79,NM_022485.3,MTMR14,HK
+MUC1,Endogenous,404.08,19.53,2499.34,154.28,NM_001018017.1,MUC1,Immune Response
+MX1,Endogenous,1330.32,109.2,8874.82,123.09,NM_002462.2,MX1,Immune Response
+MYD88,Endogenous,851.16,233.49,1797.08,39.61,NM_002468.3,MYD88,Immune Response
+NCAM1,Endogenous,518.72,15.47,2991.89,124.59,NM_000615.5,NCAM,Immune Response
+NCF4,Endogenous,150.8,31.41,580.68,69.57,NM_000631.4,NCF4,Immune Response
+NCR1,Endogenous,31.74,4.77,173.86,125.53,NM_004829.5,NKP46,Immune Response - Cell Type specific
+NEFL,Endogenous,74.75,3.82,460.24,136.88,NM_006158.3,NEFL,Immune Response - Cell Type specific
+NEG_A,Negative,13.35,3.0,23.0,30.91,,,
+NEG_B,Negative,13.9,3.0,29.0,37.27,,,
+NEG_C,Negative,8.71,4.0,17.0,40.48,,,
+NEG_D,Negative,7.29,1.0,13.0,38.89,,,
+NEG_E,Negative,15.77,5.0,24.0,25.54,,,
+NEG_F,Negative,20.12,10.0,31.0,24.99,,,
+NEG_G,Negative,5.27,1.0,16.0,54.33,,,
+NEG_H,Negative,10.02,3.0,19.0,41.61,,,
+NFATC1,Endogenous,180.35,29.19,1591.04,125.4,NM_172389.1,NFATC1,Immune Response
+NFATC2,Endogenous,395.6,74.47,2621.54,109.64,NM_012340.3,NFATC2,Immune Response
+NFATC3,Endogenous,377.32,203.5,860.43,29.5,NM_004555.2,NFATC3,Immune Response
+NFATC4,Endogenous,257.77,27.54,713.31,53.97,NM_001136022.2,NFATC4,Immune Response - Cell Type specific
+NFKB1,Endogenous,75.81,22.99,132.02,38.11,NM_003998.2,NFKB1,Immune Response
+NFKB2,Endogenous,287.53,114.75,709.34,48.67,NM_002502.2,NFKB2,Immune Response
+NFKBIA,Endogenous,2029.98,513.29,7906.07,70.95,NM_020529.1,NFKBIA,Immune Response
+NLRC5,Endogenous,184.81,53.22,421.62,47.69,NM_032206.4,NLRC5,Immune Response
+NLRP3,Endogenous,91.58,18.72,351.8,75.8,NM_001079821.2,NLRP3,Immune Response
+NOD1,Endogenous,199.47,56.17,564.24,55.43,NM_006092.1,NOD1,Immune Response
+NOD2,Endogenous,44.63,9.69,183.64,73.17,NM_022162.1,NOD2,Immune Response
+NOL7,Housekeeping,342.11,161.28,650.76,29.95,NM_016167.3,NOL7,HK
+NOS2A,Endogenous,24.55,2.65,194.06,154.48,NM_153292.1,NOS2,Immune Response
+NOTCH1,Endogenous,334.37,70.26,967.85,62.73,NM_017617.3,NOTCH1,Immune Response
+NRP1,Endogenous,1721.32,480.15,5895.2,63.21,NM_003873.5,NRP1,Immune Response
+NT5E,Endogenous,544.17,35.14,2384.76,98.51,NM_002526.2,NT5E,Immune Response
+NUBP1,Housekeeping,94.86,39.91,140.54,24.07,NM_001278506.1,NUBP1,HK
+NUP107,Endogenous,517.79,200.75,3934.22,106.57,NM_020401.2,NUP107,Immune Response - Cell Type specific
+OAS3,Endogenous,288.8,55.12,1248.65,73.8,NM_006187.2,OAS3,Immune Response - Cell Type specific
+OSM,Endogenous,31.95,3.19,275.47,135.24,NM_020530.4,OSM,Immune Response
+PASD1,Endogenous,15.79,2.47,138.24,139.06,NM_173493.2,PASD1,CT Antigen
+PAX5,Endogenous,24.67,2.87,154.33,116.19,NM_016734.1,PAX5,Immune Response
+PBK,Endogenous,131.42,13.61,634.97,93.2,NM_018492.2,PBK,CT Antigen
+PDCD1,Endogenous,19.26,3.69,101.93,98.1,NM_005018.1,PDCD1,Immune Response - Cell Type specific / Checkpoint
+PDCD1LG2,Endogenous,143.12,33.26,549.71,70.88,NM_025239.3,PD-L2,Immune Response
+PDGFC,Endogenous,923.17,73.23,7499.79,142.07,NM_016205.2,PDGFC,Immune Response
+PDGFRB,Endogenous,2399.08,178.78,8244.1,72.41,NM_002609.3,PDGFRB,Immune Response
+PECAM1,Endogenous,2064.5,268.17,16330.17,153.94,NM_000442.3,PECAM1,Immune Response
+PIK3CD,Endogenous,135.49,26.61,535.47,78.05,NM_005026.3,PIK3CD,Immune Response
+PIK3CG,Endogenous,116.59,24.95,550.8,76.63,NM_002649.2,PIK3CG,Immune Response
+PIN1,Endogenous,295.96,164.6,550.55,30.86,NM_006221.2,PIN1,Immune Response
+PLA2G1B,Endogenous,26.25,3.18,267.85,166.02,NM_000928.2,PLA2,Immune Response
+PLA2G6,Endogenous,159.59,24.92,465.14,56.5,NM_001004426.1,PLA2G6,Immune Response - Cell Type specific
+PLAU,Endogenous,775.08,66.7,2981.53,77.11,NM_002658.2,PLAU,Immune Response
+PLAUR,Endogenous,148.42,14.5,634.66,87.02,NM_001005376.1,PLAUR,Immune Response
+PMCH,Endogenous,24.55,4.83,140.54,98.86,NM_002674.2,PMCH,Immune Response - Cell Type specific
+PNMA1,Endogenous,343.47,107.9,756.78,45.04,NM_006029.4,PNMA1,Immune Response
+POLR2A,Housekeeping,1123.11,483.83,2615.66,36.28,NM_000937.2,POLR2A,HK
+POS_A,Positive,28038.12,16496.0,38050.0,15.86,,,
+POS_B,Positive,9140.12,5066.0,12041.0,14.81,,,
+POS_C,Positive,2548.54,1399.0,3294.0,13.92,,,
+POS_D,Positive,573.06,369.0,751.0,13.59,,,
+POS_E,Positive,97.08,61.0,136.0,16.3,,,
+POS_F,Positive,70.25,39.0,107.0,18.81,,,
+POU2AF1,Endogenous,14.48,1.0,83.73,112.52,NM_006235.2,POU2AF1,Immune Response
+POU2F2,Endogenous,44.68,9.05,182.05,76.7,NM_002698.2,POU2F2,Immune Response
+PPARG,Endogenous,130.58,12.21,1746.2,220.94,NM_015869.3,PPARgamma,Immune Response
+PPBP,Endogenous,287.4,5.48,8925.74,449.44,NM_002704.2,CXCL7,Immune Response
+PPIA,Housekeeping,288.54,138.24,668.55,48.49,NM_021130.2,PPIA,HK
+PRAME,Endogenous,204.84,1.71,3026.75,265.73,NM_006115.3,PRAME,CT Antigen
+PRF1,Endogenous,198.35,13.29,1940.23,150.26,NM_005041.3,PRF1,Immune Response - Cell Type specific
+PRG2,Endogenous,35.32,10.32,117.12,69.33,NM_002728.4,PRG2,Immune Response - Cell Type specific
+PRKCD,Endogenous,307.17,77.72,838.18,58.39,NM_006254.3,PRKCD,Immune Response
+PRKCE,Endogenous,60.47,16.24,288.98,76.98,NM_005400.2,PRKCE,Immune Response
+PRM1,Endogenous,17.79,2.57,92.16,102.69,NM_002761.2,PRM1,CT Antigen
+PRPF38A,Housekeeping,560.89,249.17,879.41,25.58,NM_032864.3,PRPF38A,HK
+PSEN1,Endogenous,384.25,187.37,597.96,29.99,NM_000021.2,PSEN1,Immune Response
+PSEN2,Endogenous,184.63,79.02,533.26,51.59,NM_000447.2,PSEN2,Immune Response
+PSMB10,Endogenous,306.21,110.13,592.89,42.66,NM_002801.2,PSMB10,Immune Response
+PSMB7,Endogenous,900.02,415.0,1793.08,38.24,NM_002799.2,PSMB7,Immune Response
+PSMB8,Endogenous,880.72,226.17,1668.34,38.67,NM_004159.4,PSMB8,Immune Response
+PSMB9,Endogenous,526.65,99.78,1394.27,53.37,NM_002800.4,PSMB9,Immune Response
+PSMD7,Endogenous,1180.05,491.89,3478.75,52.46,NM_002811.3,PSMD7,Immune Response
+PTGDR2,Endogenous,25.32,4.58,138.24,106.34,NM_004778.1,GPR44,Immune Response - Cell Type specific
+PTGS2,Endogenous,91.51,3.08,1109.97,181.46,NM_000963.1,PTGS2,Immune Response
+PTPRC,Endogenous,347.56,61.53,1137.01,72.37,NM_080921.3,CD45,Immune Response
+PVR,Endogenous,361.7,108.04,1161.28,51.42,NM_006505.3,PVR,Immune Response
+PYCARD,Endogenous,109.19,38.75,418.8,57.74,NM_013258.3,PYCARD,Immune Response
+RAG1,Endogenous,55.41,14.39,221.05,82.01,NM_000448.2,RAG1,Immune Response
+REL,Endogenous,150.88,62.9,304.68,38.36,NM_002908.2,REL,Immune Response
+RELA,Endogenous,218.64,101.93,352.45,27.48,NM_021975.2,RELA,Immune Response
+RELB,Endogenous,129.33,38.66,266.85,45.8,NM_006509.2,RELB,Immune Response
+REPS1,Endogenous,347.95,163.26,881.01,33.31,NM_001128617.2,REPS1,Immune Response - Cell Type specific
+RIPK2,Endogenous,209.23,77.16,572.07,47.92,NM_003821.5,RIPK2,Immune Response
+ROPN1,Endogenous,27.1,3.67,94.65,67.6,NM_017578.2,ROPN1,CT Antigen
+RORA,Endogenous,513.89,50.41,3236.5,95.47,NM_134261.2,RORA,Immune Response
+RORC,Endogenous,48.06,3.82,377.16,156.1,NM_001001523.1,RORC,Immune Response - Cell Type specific
+RPS6,Endogenous,23642.9,5233.6,116363.48,99.99,NM_001010.2,RPS6,Immune Response
+RRAD,Endogenous,140.85,5.32,1290.77,180.42,NM_004165.1,RRAD,Immune Response - Cell Type specific
+RUNX1,Endogenous,192.75,30.93,636.7,59.27,NM_001754.4,RUNX1,Immune Response
+RUNX3,Endogenous,231.8,31.6,1123.64,92.39,NM_004350.1,RUNX3,Immune Response
+S100A12,Endogenous,29.87,2.95,601.54,287.87,NM_005621.1,S100A12,Immune Response
+S100A7,Endogenous,26.48,2.87,138.24,95.03,NM_002963.2,S100A7,Immune Response
+S100A8,Endogenous,274.59,8.6,5796.34,308.0,NM_002964.3,S100A8,Immune Response
+S100B,Endogenous,48.25,5.34,395.2,150.69,NM_006272.1,S100B,Immune Response
+SAA1,Endogenous,389.46,3.44,8534.45,319.79,NM_199161.1,SAA1,Immune Response
+SAP130,Housekeeping,334.99,163.82,515.87,22.91,NM_024545.3,SAP130,HK
+SBNO2,Endogenous,634.01,238.16,1598.79,54.9,NM_014963.2,SBNO2,Immune Response
+SDHA,Housekeeping,408.68,138.24,1705.8,58.01,NM_004168.1,SDHA,HK
+SELE,Endogenous,28.97,1.93,128.83,89.13,NM_000450.2,CD62E,Immune Response
+SELL,Endogenous,103.04,13.89,1112.68,154.92,NR_029467.1,CD62L,Immune Response
+SELPLG,Endogenous,76.67,14.85,375.53,83.33,NM_001206609.1,SELPLG,Immune Response
+SEMG1,Endogenous,28.76,4.58,152.25,104.53,NM_003007.2,SEMG1,CT Antigen
+SERPINB2,Endogenous,95.03,7.37,1731.41,269.92,NM_002575.1,SERPINB2,Immune Response
+SERPING1,Endogenous,2865.73,266.23,10182.97,86.29,NM_000062.2,SERPING1,Immune Response
+SF3A3,Housekeeping,1025.37,549.38,4861.34,64.98,NM_006802.2,SF3A3,HK
+SH2B2,Endogenous,57.22,15.06,191.24,65.22,NM_020979.3,SH2B2,Immune Response
+SH2D1A,Endogenous,28.52,5.44,74.23,64.26,NM_001114937.2,SH2D1A,Immune Response
+SH2D1B,Endogenous,36.8,5.65,257.31,129.33,NM_053282.4,SH2D1B,Immune Response
+SIGIRR,Endogenous,87.36,15.16,304.5,85.62,NM_021805.2,SIGIRR,Immune Response
+SIGLEC1,Endogenous,521.55,88.18,1975.16,79.77,NM_023068.3,SIGLEC-1,Immune Response
+SLAMF1,Endogenous,21.77,4.8,71.69,77.73,NM_003037.2,SLAM,Immune Response
+SLAMF6,Endogenous,22.29,3.76,105.4,79.01,NM_001184714.1,SLAMF6,Immune Response
+SLAMF7,Endogenous,36.17,6.64,111.27,70.15,NM_021181.3,SLAMF7,Immune Response
+SLC11A1,Endogenous,227.7,2.46,1866.16,144.52,NM_000578.2,NRAMP1,Immune Response
+SMAD2,Endogenous,479.39,243.86,1003.48,32.7,NM_005901.5,SMAD2,Immune Response - Cell Type specific
+SMAD3,Endogenous,1067.2,161.68,4951.85,68.29,NM_005902.3,SMAD3,Immune Response
+SMPD3,Endogenous,80.46,5.83,879.34,197.34,NM_018667.3,SMPD3,Immune Response - Cell Type specific
+SOCS1,Endogenous,167.94,30.51,756.84,81.4,NM_003745.1,SOCS1,Immune Response
+SPA17,Endogenous,128.08,36.82,367.72,59.68,NM_017425.3,SPA17,CT Antigen
+SPACA3,Endogenous,30.94,3.43,253.43,131.08,NM_173847.3,SPACA3,CT Antigen
+SPANXB1,Endogenous,23.68,3.44,345.59,209.42,NM_032461.2,SPANXB1,CT Antigen
+SPINK5,Endogenous,47.41,4.24,326.67,120.73,NM_006846.3,SPINK5,Immune Response
+SPN,Endogenous,50.11,7.9,307.82,113.74,NM_003123.3,SPN,Immune Response
+SPO11,Endogenous,17.16,1.0,128.83,118.78,NM_198265.1,SPO11,CT Antigen
+SPP1,Endogenous,7790.1,14.85,66916.91,174.9,NM_000582.2,SPP1,Immune Response
+SSX1,Endogenous,63.6,3.19,1550.51,350.38,NM_005635.2,SSX1,CT Antigen
+SSX4,Endogenous,15.54,1.97,115.2,119.72,NM_005636.3,SSX4,CT Antigen
+ST6GAL1,Endogenous,382.68,70.13,998.44,61.67,NM_003032.2,ST6GAL1,Immune Response
+STAT1,Endogenous,696.48,141.36,1827.25,56.76,NM_007315.2,STAT1,Immune Response
+STAT2,Endogenous,1196.47,308.12,2868.74,43.27,NM_005419.2,STAT2,Immune Response
+STAT3,Endogenous,2973.15,1220.0,5341.15,34.33,NM_139276.2,STAT3,Immune Response
+STAT4,Endogenous,60.19,15.26,172.84,65.06,NM_003151.2,STAT4,Immune Response - Cell Type specific
+STAT5B,Endogenous,246.31,62.99,440.72,39.21,NM_012448.3,STAT5B,Immune Response
+STAT6,Endogenous,1028.94,323.19,2490.05,47.63,NM_003153.3,STAT6,Immune Response - Cell Type specific
+SYCP1,Endogenous,14.23,2.58,47.32,75.74,NM_003176.2,SYCP1,CT Antigen
+SYK,Endogenous,162.5,35.07,356.14,58.74,NM_003177.3,SYK,Immune Response
+SYT17,Endogenous,32.37,4.74,125.46,86.88,NM_016524.2,SYT17,Immune Response - Cell Type specific
+TAB1,Endogenous,158.2,62.37,396.7,36.43,NM_153497.2,TAB1,Immune Response
+TAL1,Endogenous,95.36,12.78,710.32,147.85,NM_003189.2,TAL1,Immune Response
+TANK,Endogenous,633.74,353.34,1010.5,29.64,NM_004180.2,TANK,Immune Response
+TAP1,Endogenous,297.5,58.21,628.22,44.61,NM_000593.5,TAP1,Immune Response
+TAP2,Endogenous,231.68,81.67,438.6,42.03,NM_000544.3,TAP2,Immune Response
+TAPBP,Endogenous,607.83,221.19,1304.14,40.15,NM_003190.4,TAPBP,Immune Response
+TARP,Endogenous,77.53,9.06,372.05,91.37,NM_001003799.1,TCRG,Immune Response - Cell Type specific
+TBK1,Endogenous,248.09,120.13,522.72,34.93,NM_013254.2,TBK1,Immune Response
+TBP,Housekeeping,286.41,132.74,605.34,25.74,NM_001172085.1,TBP,HK
+TBX21,Endogenous,59.73,13.29,312.94,99.41,NM_013351.1,TBX21,Immune Response - Cell Type specific
+TCF7,Endogenous,233.64,18.29,3330.27,204.51,NM_003202.2,TCF7,Immune Response
+TFE3,Endogenous,125.81,67.87,245.94,40.72,NM_006521.3,TFE3,Immune Response
+TFEB,Endogenous,172.96,64.38,395.9,50.93,NM_007162.2,TFEB,Immune Response
+TFRC,Endogenous,726.59,188.19,3442.1,80.9,NM_003234.1,CD71,Immune Response
+TGFB1,Endogenous,1460.88,121.4,5080.62,71.73,NM_000660.3,TGFB1,Immune Response
+TGFB2,Endogenous,255.38,21.23,3280.86,179.48,NM_003238.2,TGFB2,Immune Response
+THBD,Endogenous,538.82,34.12,1890.92,85.11,NM_000361.2,THBD,Immune Response
+THBS1,Endogenous,3945.31,20.3,37714.09,157.21,NM_003246.2,THBS1,Immune Response - Cell Type specific
+THY1,Endogenous,2174.72,137.85,10928.82,102.8,NM_006288.2,THY1,Immune Response
+TICAM1,Endogenous,234.35,78.16,769.71,54.63,NM_014261.1,TICAM1,Immune Response
+TICAM2,Endogenous,211.97,63.2,641.0,61.45,NM_021649.4,TICAM2,Immune Response
+TIGIT,Endogenous,53.5,7.25,184.32,68.34,NM_173799.2,TIGIT,Immune Response
+TIRAP,Endogenous,101.32,44.25,227.96,33.06,NM_148910.2,TIRAP,Immune Response
+TLK2,Housekeeping,355.06,173.96,604.0,28.07,NM_006852.2,TLK2,HK
+TLR1,Endogenous,353.94,93.13,994.45,58.64,NM_003263.3,TLR1,Immune Response
+TLR10,Endogenous,74.72,13.37,346.52,84.89,NM_030956.2,TLR10,Immune Response
+TLR2,Endogenous,188.29,37.7,526.63,63.05,NM_003264.3,TLR2,Immune Response
+TLR3,Endogenous,62.02,13.37,221.05,63.34,NM_003265.2,TLR3,Immune Response
+TLR4,Endogenous,405.56,49.53,2535.88,96.49,NM_138554.2,TLR4,Immune Response
+TLR5,Endogenous,61.39,15.77,184.32,52.78,NM_003268.3,TLR5,Immune Response
+TLR6,Endogenous,104.3,21.08,414.71,73.68,NM_006068.2,TLR6,Immune Response
+TLR7,Endogenous,55.14,6.65,299.51,89.12,NM_016562.3,TLR7,Immune Response
+TLR8,Endogenous,32.09,7.2,115.2,72.52,NM_016610.2,TLR8,Immune Response
+TLR9,Endogenous,50.21,8.23,199.1,88.32,NM_017442.2,TLR9,Immune Response
+TMEFF2,Endogenous,48.67,4.67,602.84,182.71,NM_016192.2,TMEFF2,CT Antigen
+TMUB2,Housekeeping,243.88,135.82,357.42,22.04,NM_024107.2,TMUB2,HK
+TNF,Endogenous,57.95,10.83,246.54,83.57,NM_000594.2,TNF-alpha,Immune Response
+TNFAIP3,Endogenous,318.87,43.46,1325.53,81.56,NM_006290.2,TNFAIP3,Immune Response
+TNFRSF10B,Endogenous,219.21,64.23,553.85,53.89,NM_003842.3,TNFRSF10B,Immune Response
+TNFRSF10C,Endogenous,92.88,6.85,1310.87,202.62,NM_003841.3,TNFRSF10C,Immune Response
+TNFRSF11A,Endogenous,73.33,4.99,318.18,94.22,NM_003839.2,RANK,Immune Response
+TNFRSF11B,Endogenous,137.61,3.79,1300.6,156.81,NM_002546.2,TNFRSF11B,Immune Response
+TNFRSF12A,Endogenous,95.92,9.67,353.39,79.26,NM_016639.1,TNFRSF12A,Immune Response
+TNFRSF13B,Endogenous,17.95,1.81,184.32,157.44,NM_012452.2,TACI,Immune Response
+TNFRSF13C,Endogenous,28.57,3.76,92.16,74.04,NM_052945.3,TNFRSF13C,Immune Response
+TNFRSF14,Endogenous,244.68,63.2,640.73,52.08,NM_003820.2,TNFRSF14,Immune Response
+TNFRSF17,Endogenous,29.84,4.58,112.85,80.97,NM_001192.2,TNFRSF17,Immune Response - Cell Type specific
+TNFRSF18,Endogenous,39.41,4.09,139.32,80.02,NM_004195.2,GITR,Immune Response
+TNFRSF1A,Endogenous,977.45,414.27,1908.98,32.81,NM_001065.2,TNFRSF1A,Immune Response
+TNFRSF1B,Endogenous,224.19,42.28,796.69,63.36,NM_001066.2,TNFRSF1B,Immune Response
+TNFRSF4,Endogenous,77.67,14.74,709.11,132.15,NM_003327.2,OX40,Immune Response - Checkpoint
+TNFRSF8,Endogenous,57.77,8.46,276.47,90.37,NM_152942.2,CD30,Immune Response
+TNFRSF9,Endogenous,45.23,2.42,237.66,114.34,NM_001561.4,CD137,Immune Response - Checkpoint
+TNFSF10,Endogenous,627.41,57.98,2933.83,110.88,NM_003810.2,TRAIL,Immune Response
+TNFSF11,Endogenous,73.05,7.54,455.62,116.67,NM_003701.2,RANKL,Immune Response
+TNFSF12,Endogenous,701.84,254.81,1400.92,34.05,NM_003809.2,TWEAK,Immune Response
+TNFSF13,Endogenous,176.36,42.27,782.13,72.45,NM_003808.3,APRIL,Immune Response
+TNFSF13B,Endogenous,177.02,36.59,599.03,69.29,NM_006573.4,BAFF,Immune Response
+TNFSF14,Endogenous,78.52,9.06,1088.21,203.27,NM_003807.3,LIGHT,Immune Response
+TNFSF15,Endogenous,78.48,10.42,222.52,68.17,NM_001204344.1,VEGI,Immune Response
+TNFSF18,Endogenous,20.15,1.81,105.4,103.49,NM_005092.2,TNFSF18,Immune Response
+TNFSF4,Endogenous,121.83,19.57,864.46,123.72,NM_003326.2,TNFSF4,Immune Response
+TNFSF8,Endogenous,36.47,10.57,184.32,77.64,NM_001244.3,TNFSF8,Immune Response
+TOLLIP,Endogenous,455.39,148.64,1035.17,35.56,NM_019009.2,TOLLIP,Immune Response
+TP53,Endogenous,525.28,80.24,1443.09,60.15,NM_000546.2,p53,Immune Response
+TPSAB1,Endogenous,1081.59,34.22,6964.61,135.19,NM_003294.3,TPSAB1,Immune Response - Cell Type specific
+TPTE,Endogenous,63.24,8.23,299.58,118.14,NM_199259.2,TPTE,CT Antigen
+TRAF2,Endogenous,261.56,69.12,488.94,37.91,NM_021138.3,TRAF2,Immune Response
+TRAF3,Endogenous,258.38,100.81,608.68,43.19,NM_145725.1,TRAF3,Immune Response
+TRAF6,Endogenous,229.66,96.59,350.64,24.16,NM_145803.1,TRAF6,Immune Response
+TREM1,Endogenous,242.75,1.0,2365.78,176.99,NM_018643.3,TREM1,Immune Response
+TREM2,Endogenous,92.67,8.7,336.31,85.58,NM_018965.3,TREM2,Immune Response
+TRIM39,Housekeeping,91.42,45.61,184.32,35.93,NM_021253.3,TRIM39,HK
+TTK,Endogenous,143.98,8.66,616.97,82.96,NM_003318.3,TTK,CT Antigen
+TUBB,Housekeeping,1946.13,941.0,7202.95,54.07,NM_178014.2,TUBB,HK
+TXK,Endogenous,27.83,5.4,115.2,78.53,NM_003328.1,TXK,Immune Response
+TXNIP,Endogenous,8168.04,693.66,53451.55,117.25,NM_006472.1,TXNIP,Immune Response
+TYK2,Endogenous,644.64,276.47,1052.03,24.6,NM_003331.3,TYK2,Immune Response
+UBC,Endogenous,18411.79,3087.3,55738.86,49.19,NM_021009.3,UBC,Immune Response
+ULBP2,Endogenous,85.72,7.2,385.5,80.14,NM_025217.2,ULBP2,Immune Response
+USP39,Housekeeping,149.36,70.18,353.01,33.66,NM_001256725.1,USP39,HK
+USP9Y,Endogenous,65.53,3.75,243.9,105.75,NM_004654.3,USP9Y,Immune Response - Cell Type specific
+VCAM1,Endogenous,483.12,11.48,4011.63,139.04,NM_001078.3,VCAM1,Immune Response
+VEGFA,Endogenous,1106.87,51.26,5460.73,108.66,NM_001025366.1,VEGF,Immune Response
+VEGFC,Endogenous,264.03,17.69,1720.32,118.33,NM_005429.2,VEGFC,Immune Response
+XCL2,Endogenous,48.2,8.46,184.32,76.55,NM_003175.3,XCL2,Immune Response
+XCR1,Endogenous,60.94,10.27,391.67,106.33,NM_005283.2,XCR1,Immune Response
+YTHDF2,Endogenous,567.41,222.06,990.32,28.6,NM_001172828.1,NY-REN-2,Immune Response
+ZAP70,Endogenous,79.28,15.1,434.64,93.32,NM_001079.3,ZAP-70,Immune Response
+ZC3H14,Housekeeping,521.91,260.78,1635.81,42.51,NM_001160103.1,ZC3H14,HK
+ZKSCAN5,Housekeeping,88.19,38.6,184.32,33.58,NM_014569.3,ZKSCAN5,HK
+ZNF143,Housekeeping,136.34,85.34,212.1,23.25,NM_003442.5,ZNF143,HK
+ZNF205,Endogenous,86.86,27.68,210.81,41.59,NM_001031686.1,ZNF205,Immune Response - Cell Type specific
+ZNF346,Housekeeping,175.99,57.04,563.17,59.63,NM_012279.2,ZNF346,HK
